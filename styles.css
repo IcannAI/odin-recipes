@@ -6,3 +6,11 @@ p {
     /* hsl example: */
     color: hsla(15, 82%, 56%, 0.72);
 }
+
+div {
+    background-color:bisque;
+    color:aquamarine;
+    font-size: 21px;
+    text-align:center;
+    font-weight:bold;
+}
