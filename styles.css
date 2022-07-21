@@ -4,5 +4,5 @@ p {
     /* rgb example: */
     color: rgb(100,0,127);
     /* hsl example: */
-    color: hsl(15, 82%, 56%);
+    color: hsla(15, 82%, 56%, 0.72);
 }
